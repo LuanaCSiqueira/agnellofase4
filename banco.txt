@@ -1,0 +1,15 @@
+Nome Vinho:Sangue de Boi
+Descricao :Melhor vinho para quem esta sem grana
+Quantidade:3
+Valor:20
+-------------------------------
+Nome Vinho:Vinho City
+Descricao :Vinho meio seco
+Quantidade:80
+Valor:70
+-------------------------------
+Nome Vinho:vinho teste
+Descricao :vinho suave
+Quantidade:100
+Valor:50
+
